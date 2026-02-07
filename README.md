@@ -161,4 +161,3 @@ The system includes sample data with 50 movies and ratings from 100 users. You c
 
 This project is open source and available for learning purposes.
 
-#

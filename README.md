@@ -156,8 +156,3 @@ The system includes sample data with 50 movies and ratings from 100 users. You c
 - More sophisticated feature engineering
 - Integration with movie databases (TMDB, IMDb)
 - User authentication and personal profiles
-
-## License
-
-This project is open source and available for learning purposes.
-
